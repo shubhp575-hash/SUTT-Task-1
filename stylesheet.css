@@ -1,14 +1,14 @@
 @font-face {
     font-family: bigfont;
-    src: url(/assets/Fonts/bigfont.otf);
+    src: url(assets/Fonts/bigfont.otf);
 }
 @font-face {
     font-family: smallfont;
-    src: url(/assets/Fonts/smalltext.otf);
+    src: url(assets/Fonts/smalltext.otf);
 }
 @font-face {
     font-family: mediumfont;
-    src: url(/assets/Fonts/mediumfont.otf);
+    src: url(assets/Fonts/mediumfont.otf);
 }
 body{
     background-color: #F4F4F4;
